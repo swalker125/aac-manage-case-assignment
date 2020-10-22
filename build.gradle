@@ -184,7 +184,7 @@ dependencyManagement {
       entry 'tomcat-embed-websocket'
     }
     // multiple CVEs
-    dependencySet(group: 'com.netflix.servo', version: '0.12.4') {
+    dependencySet(group: 'com.netflix.servo', version: '0.13.0') {
       entry 'servo-core'
     }
   }
